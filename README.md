@@ -12,7 +12,7 @@ Sparse reconstruction involves creating a 3D representation of a scene using onl
 
 #### Results sample
 
-<img src="./result/3.1.2.png" width="500" alt="sparse-reconstruction">
+<img src="./result/3.1.2.png" width="600" alt="sparse-reconstruction">
 
 #### Dense reconstruction
 
@@ -20,8 +20,8 @@ Dense reconstruction, aims to create a more detailed 3D model of the scene by es
 
 #### Results sample
 
-<p>
-  <img alt="original" src="./result/original.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="dense-reconstruction" src="./result/after-rec-3d.jpg" width="45%">
-</p>
+<img src="./result/dense-reconstruction.png" width="600" alt="dense-reconstruction">
+
+### References
+
+There are helper code from University of Western Australia by Peter Kovesi from `estimate_params.m` in <a href="https://github.com/claredang/3d-reconstruction/">here</a>.
